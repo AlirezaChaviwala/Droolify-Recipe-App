@@ -1,0 +1,5 @@
+--Written in JS with HTML DOM manipulation
+--Integrated API from edamam.com to pull recipes
+
+--Hosted Netlify link
+https://droolify.netlify.app/
